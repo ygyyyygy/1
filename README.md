@@ -1,5 +1,5 @@
 screen https://drive.google.com/file/d/1V0R3Dm6tqjo046s6qjdVP44va8NUZIpU/view
 
-screen https://disk.yandex.ru/d/KKHUA_qC5vc4RQ
+screen https://disk.yandex.ru/d/_IkG7ZdGiPGWdQ
 
 moodle - https://drive.google.com/file/d/1MioFnYpUezuDm5UoVFQ2_RwOLFDPLCUj/view
